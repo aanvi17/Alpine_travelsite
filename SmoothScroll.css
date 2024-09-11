@@ -1,0 +1,18 @@
+/* CSS for smooth scrolling */
+html,
+body {
+  overflow-x: hidden;
+  /* height: 100%; */
+  /*width: 100%; */
+}
+
+.smooth-scroll-wrapper {
+  overflow: auto;
+  /* height: 100vh; */
+  width: 100%;
+}
+
+.smooth-scroll-content {
+  position: relative;
+  /* width: 100%; */
+}

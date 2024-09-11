@@ -1,0 +1,20 @@
+/* Fonts css */
+
+@font-face {
+    font-family: "FontRegular";
+    src: local("FontRegular"), url("../src/fonts/static/Montserrat-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "FontMedium";
+    src: local("FontMedium"), url("../src/fonts/static/Montserrat-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "FontBold";
+    src: local("FontBold"), url("../src/fonts/static/Montserrat-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: "FontExtraBold";
+    src: local("FontBold"), url("../src/fonts/static/Montserrat-ExtraBold.ttf") format("truetype");
+}
